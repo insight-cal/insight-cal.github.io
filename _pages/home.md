@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Insight Computer Architecture Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Insight Computer Architecture Lab at William & Mary."
 sitemap: false
 permalink: /
 ---
