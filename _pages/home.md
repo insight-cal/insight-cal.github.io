@@ -10,7 +10,7 @@ We are a dynamic research group at [William & Mary](https://www.wm.edu/as/comput
 Our aim is to generate insights necessary in order to architect future computers that are 
 more energy-efficient, capable, reliable, and secure.
 
-<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -56,7 +56,7 @@ more energy-efficient, capable, reliable, and secure.
     <span class="sr-only">Next</span>
   </a>
 </div>
- -->
+
 
 
 
