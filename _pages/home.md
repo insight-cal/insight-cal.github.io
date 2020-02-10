@@ -23,10 +23,10 @@ This website is UNDER CONSTRUCTION. Please check back later.
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/jog_career.JPG" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grp.JPG" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/jog_career.JPG" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grp.JPG" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
