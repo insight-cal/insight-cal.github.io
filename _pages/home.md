@@ -18,6 +18,10 @@ This website is UNDER CONSTRUCTION. Please check back later.
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -31,6 +35,18 @@ This website is UNDER CONSTRUCTION. Please check back later.
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grp-3.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grp-1.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grp-2.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grp-3.jpg" alt="Slide 6" />
+        </div>       
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grp-1.jpg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
