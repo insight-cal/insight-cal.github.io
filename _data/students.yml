@@ -1,16 +1,44 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Mohamed Assem Ibrahim
+  photo: Mohamed_1.jpg
+  info: Ph.D. Candidate, started Jan 2016
+  email: maibrahim@email.wm.edu
+  number_educ: 1
+  education1: BSc/MSc from Cairo University
 
-- name: XX
-  photo: XX.jpg
-  info: XX
-  email: XX
+- name: Mohamed Assem Ibrahim
+  photo: Mohamed_1.jpg
+  info: Ph.D. Candidate, started Jan 2016
+  email: maibrahim@email.wm.edu
+  number_educ: 1
+  education1: BSc/MSc from Cairo University
+
+- name: Mohamed Assem Ibrahim
+  photo: Mohamed_1.jpg
+  info: Ph.D. Candidate, started Jan 2016
+  email: maibrahim@email.wm.edu
+  number_educ: 1
+  education1: BSc/MSc from Cairo University
+
+- name: Mohamed Assem Ibrahim
+  photo: Mohamed_1.jpg
+  info: Ph.D. Candidate, started Jan 2016
+  email: maibrahim@email.wm.edu
+  number_educ: 1
+  education1: BSc/MSc from Cairo University
+
+- name: Mohamed Assem Ibrahim
+  photo: Mohamed_1.jpg
+  info: Ph.D. Candidate, started Jan 2016
+  email: maibrahim@email.wm.edu
+  number_educ: 1
+  education1: BSc/MSc from Cairo University
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: Email Prof. Jog (ajog@wm.edu) for more information
+  email: ajog@wm.edu
   number_educ: 0
   education1:
+  education2:
+  education3:
+  education4:
