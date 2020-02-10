@@ -8,11 +8,11 @@ permalink: /team/
 
 # Group Members
 
- **We are looking for new students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are always looking for new students to join the team!**
 
-
+<!-- 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
+ -->
 ## Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
