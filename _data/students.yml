@@ -2,13 +2,14 @@
   photo: Mohamed_1.jpg
   info: Ph.D. Candidate, started Jan 2016
   email: maibrahim@email.wm.edu
-  number_educ: 1
-  education1: B.Sc./M.Sc. from Cairo University
+  number_educ: 2
+  education1: B.Sc. from Cairo University
+  education2: M.Sc. from Cairo University
 
 - name: Haonan Wang
   photo: haonan.jpeg
   info: Ph.D. Candidate, started Jan 2016
-  email: maibrahim@email.wm.edu
+  email: hwang07@email.wm.edu 
   number_educ: 2
   education1: BS from East China University of Science and Technology
   education2: MS from William & Mary
@@ -16,7 +17,7 @@
 - name: Gurunath Kadam
   photo: guru.jpeg
   info: Ph.D. Candidate, started Aug 2016
-  email: maibrahim@email.wm.edu
+  email: gakadam@email.wm.edu
   number_educ: 2
   education1: B.E. from University of Mumbai
   education2: M.Sc. from TU Darmstadt
@@ -24,7 +25,7 @@
 - name: Hongyuan Liu
   photo: hongyuan.jpeg
   info: Ph.D. Candidate, started Jan 2017
-  email: maibrahim@email.wm.edu
+  email: hliu08@email.wm.edu 
   number_educ: 2
   education1: B.Eng. from Shandong University
   education2: M.Sc. from University of Hongkong
