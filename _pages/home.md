@@ -59,7 +59,7 @@ This website is UNDER CONSTRUCTION. Please check back later.
   </a>
 </div>
 
-
+The details of our research will be available on this website very soon.
 
 
 <!-- To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
