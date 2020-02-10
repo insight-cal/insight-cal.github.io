@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
+<!-- ## Highlights
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ), [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html))
 
@@ -49,7 +49,7 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p> &nbsp; </p> -->
 
 
 ## Full List
