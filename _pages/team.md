@@ -13,8 +13,8 @@ permalink: /team/
 <!-- 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
  -->
- 
-## Faculty
+
+## Current
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -77,7 +77,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Ph.D. Students
+<!-- ## Ph.D. Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -129,7 +129,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 
 ## Alumni
