@@ -1,3 +1,8 @@
+
+# Research
+
+Please refer to [Prof Jog's website](https://adwaitjog.github.io/pubs.html)
+
 <!-- ---
 title: "Insight Computer Architecture Lab - Research"
 layout: textlay
