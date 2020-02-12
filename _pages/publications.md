@@ -9,6 +9,9 @@ permalink: /publications/
 
 # Publications
 
+
+Please refer to [Prof Jog's website](https://adwaitjog.github.io/pubs.html)
+
 <!-- ## Highlights
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ), [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jog:Adwait.html))
@@ -51,8 +54,8 @@ permalink: /publications/
 
 <p> &nbsp; </p> -->
 
-
-## Full List
+<!-- 
+## Full List -->
 
 {% for publi in site.data.publist %}
 
