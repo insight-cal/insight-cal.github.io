@@ -1,3 +1,8 @@
+title: "Insight Computer Architecture Lab - Research"
+layout: textlay
+excerpt: "Insight Computer Architecture Lab -- Research"
+sitemap: false
+permalink: /research/
 
 # Research
 
