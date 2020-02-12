@@ -9,7 +9,7 @@ permalink: /
 We are a dynamic research group at [William & Mary](https://www.wm.edu/as/computerscience/). 
 Our aim is to generate insights necessary in order to architect future computers that are 
 more energy-efficient, capable, reliable, and secure.
-This website is UNDER CONSTRUCTION. Please check back later.
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -59,9 +59,8 @@ This website is UNDER CONSTRUCTION. Please check back later.
 </div>
 
 
-The details of our research will be available on this website very soon.
-The details of our research will be available on this website very soon.
-The details of our research will be available on this website very soon.
+Please check back later for more details.
+
 
 <!-- To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
