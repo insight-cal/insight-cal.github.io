@@ -3,10 +3,10 @@
   info: Assistant professor, started Aug 2015
   email: ajog@wm.edu
   number_educ: 2
-  education1: Ph.D. from Penn State
+  education1: Ph.D. from Penn State, B.Tech from NIT Rourkela, India
   education2: Recipient of NSF CAREER Award (2018) and NSF CRII Award (2017)
   
-- name: Mohamed Assem Ibrahim
+- name: <a href='https://massemibrahim.github.io/'>Mohamed Assem Ibrahim</a> 
   photo: mohamed.jpeg
   info: Ph.D. Candidate, started Jan 2016
   email: maibrahim@email.wm.edu
@@ -14,7 +14,7 @@
   education1: B.Sc. from Cairo University
   education2: M.Sc. from Cairo University
 
-- name: Gurunath Kadam
+- name: <a href='http://www.cs.wm.edu/~gakadam/'>Gurunath Kadam</a>  
   photo: guru.jpeg
   info: Ph.D. Candidate, started Aug 2016
   email: gakadam@email.wm.edu
@@ -22,7 +22,7 @@
   education1: B.E. from University of Mumbai
   education2: M.Sc. from TU Darmstadt
 
-- name: Hongyuan Liu
+- name: <a href='http://www.cs.wm.edu/~hyliu/'>Hongyuan Liu</a>  
   photo: hongyuan.jpeg
   info: Ph.D. Candidate, started Jan 2017
   email: hliu08@email.wm.edu 
