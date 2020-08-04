@@ -183,7 +183,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Master students</h4>
+<h4>Master Students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
