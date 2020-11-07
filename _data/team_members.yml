@@ -9,7 +9,6 @@
 - name: <a href='https://massemibrahim.github.io/'>Mohamed Assem Ibrahim</a> 
   photo: mohamed.jpeg
   info: Ph.D. Candidate, started Jan 2016
-  email: maibrahim@email.wm.edu
   number_educ: 2
   education1: B.Sc. from Cairo University
   education2: M.Sc. from Cairo University
@@ -17,7 +16,6 @@
 - name: <a href='http://www.cs.wm.edu/~gakadam/'>Gurunath Kadam</a>  
   photo: guru.jpeg
   info: Ph.D. Candidate, started Aug 2016
-  email: gakadam@email.wm.edu
   number_educ: 2
   education1: B.E. from University of Mumbai
   education2: M.Sc. from TU Darmstadt
@@ -25,7 +23,6 @@
 - name: <a href='http://www.cs.wm.edu/~hyliu/'>Hongyuan Liu</a>  
   photo: hongyuan.jpeg
   info: Ph.D. Candidate, started Jan 2017
-  email: hliu08@email.wm.edu 
   number_educ: 2
   education1: B.Eng. from Shandong University
   education2: M.Sc. from University of Hongkong
@@ -33,7 +30,6 @@
 - name: Ying Li  
   photo: Ying.jpg
   info: Ph.D. Student, started Aug 2020
-  email: yli81@email.wm.edu
   number_educ: 1
   education1: B.Eng. from Shandong University
 
