@@ -6,9 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at [William & Mary](https://www.wm.edu/as/computerscience/). 
-Our aim is to generate insights necessary in order to architect future computers that are 
-more energy-efficient, capable, reliable, and secure.
+Welcome! We are a research group at [William & Mary](https://www.wm.edu/as/computerscience/) working
+in the area of computer architecture and systems. Our goal is to generate insights necessary 
+in order to architect future computers that are more energy-efficient, capable, reliable, and 
+secure. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
