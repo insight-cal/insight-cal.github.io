@@ -73,6 +73,6 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf_logo.png" style="width: 70px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wm_logo.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/google.svg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Argonnelablogo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/google.svg" style="width: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Argonnelablogo.png" style="width: 70px">
 </figure>
