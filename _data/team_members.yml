@@ -3,40 +3,25 @@
   info: Associate professor
   number_educ: 2
   education1: Ph.D. from Penn State, B.Tech from NIT Rourkela, India
-  education2: Recipient of Google Research Scholar Award (2021), NSF CAREER Award (2018), and NSF CRII Award (2017)
-  
-# - name: <a href='http://www.cs.wm.edu/~massem/'>Mohamed Assem Ibrahim</a> 
-#   photo: mohamed.jpeg
-#   info: Ph.D. Candidate, started Jan 2016
-#   number_educ: 2
-#   education1: B.Sc. from Cairo University
-#   education2: M.Sc. from Cairo University
-
-# - name: <a href='http://www.cs.wm.edu/~gakadam/'>Gurunath Kadam</a>  
-#   photo: guru.jpeg
-#   info: Ph.D. Candidate, started Aug 2016
-#   number_educ: 2
-#   education1: B.E. from University of Mumbai
-#   education2: M.Sc. from TU Darmstadt
-
-- name: <a href='http://www.cs.wm.edu/~hyliu/'>Hongyuan Liu</a>  
-  photo: hongyuan.jpeg
-  info: Ph.D. Candidate, started Jan 2017
-  number_educ: 2
-  education1: B.Eng. from Shandong University
-  education2: M.Sc. from University of Hongkong
 
 - name: Ying Li  
   photo: Ying.jpg
-  info: Ph.D. Student, started Aug 2020
+  info: Ph.D. Candidate, started Aug 2020
   number_educ: 1
   education1: B.Eng. from Shandong University
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: Contact Prof. Jog for more information
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+# - name: <a href='http://www.cs.wm.edu/~hyliu/'>Hongyuan Liu</a>  
+#   photo: hongyuan.jpeg
+#   info: Ph.D. Candidate, started Jan 2017
+#   number_educ: 2
+#   education1: B.Eng. from Shandong University
+#   education2: M.Sc. from University of Hongkong
+
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: Contact Prof. Jog for more information
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
