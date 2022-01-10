@@ -4,9 +4,9 @@
   number_educ: 2
   education1: Ph.D. from Penn State, B.Tech from NIT Rourkela, India
 
-- name: Ying Li  
+- name: <a href='https://www.yingliphd.com/'>Ying Li</a>  
   photo: Ying.jpg
-  info: Ph.D. Candidate, started Aug 2020
+  info: Ph.D. Candidate, started Fall 2020
   number_educ: 1
   education1: B.Eng. from Shandong University
 
@@ -25,3 +25,5 @@
 #   education2:
 #   education3:
 #   education4:
+
+
