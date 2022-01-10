@@ -1,14 +1,10 @@
 - name: <a href='http://www.cs.wm.edu/~adwait'>Adwait Jog</a>
   photo: jog_career.JPG
-  info: Associate professor
-  number_educ: 2
-  education1: Ph.D. from Penn State, B.Tech from NIT Rourkela, India
+  info: Associate Professor
 
 - name: <a href='https://www.yingliphd.com/'>Ying Li</a>  
   photo: Ying.jpg
   info: Ph.D. Candidate, started Fall 2020
-  number_educ: 1
-  education1: B.Eng. from Shandong University
 
 # - name: <a href='http://www.cs.wm.edu/~hyliu/'>Hongyuan Liu</a>  
 #   photo: hongyuan.jpeg
