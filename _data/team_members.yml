@@ -1,17 +1,8 @@
 - name: <a href='http://www.cs.wm.edu/~adwait'>Adwait Jog</a>
-  photo: jog_career.JPG
   info: Associate Professor
 
 - name: <a href='https://www.yingliphd.com/'>Ying Li</a>  
-  photo: Ying.jpg
   info: Ph.D. Candidate, started Fall 2020
-
-# - name: <a href='http://www.cs.wm.edu/~hyliu/'>Hongyuan Liu</a>  
-#   photo: hongyuan.jpeg
-#   info: Ph.D. Candidate, started Jan 2017
-#   number_educ: 2
-#   education1: B.Eng. from Shandong University
-#   education2: M.Sc. from University of Hongkong
 
 # - name: "This could be you !"
 #   photo: rock.jpg
