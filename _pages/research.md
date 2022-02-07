@@ -12,7 +12,7 @@ We are interested in all aspects of computer architecture with a special focus o
 insights for architecting future computers that are more energy-efficient, capable, reliable, 
 and secure. For more details, please refer to [Prof Jog's website](https://adwaitjog.github.io/).
 
-Our research group is currently supported by the following research grants:
+Our research group is currently supported by the following sponsors:
 
 1. [Google Research Scholar Award 2021](https://ai.googleblog.com/2021/04/announcing-2021-research-scholar.html) 
 
