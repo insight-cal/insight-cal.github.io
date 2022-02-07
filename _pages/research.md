@@ -8,12 +8,11 @@ permalink: /research/
 
 # Research
 
-Our aim is to generate insights necessary in order to architect future computers that are 
-more energy-efficient, capable, reliable, and secure.
+We are interested in all aspects of computer architecture with a special focus on performance, reliability, and security of heterogeneous architectures and accelerators. We aim to generate
+insights for architecting future computers that are more energy-efficient, capable, reliable, 
+and secure. For more details, please refer to [Prof Jog's website](https://adwaitjog.github.io/).
 
-Please refer to [Prof Jog's website](https://adwaitjog.github.io/) for the publication list and other details.
-
-My research group is currently supported by the following research grants:
+Our research group is currently supported by the following research grants:
 
 1. [Google Research Scholar Award 2021](https://ai.googleblog.com/2021/04/announcing-2021-research-scholar.html) 
 
@@ -22,7 +21,6 @@ My research group is currently supported by the following research grants:
 3. Adina Allen Professorship
 
 4. NVIDIA Donation (Equipment)
-
 
 
 Completed Projects:
