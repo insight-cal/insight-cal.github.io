@@ -15,9 +15,9 @@ Please refer to [Prof Jog's website](https://adwaitjog.github.io/) for the publi
 
 My research group is currently supported by the following research grants:
 
-1. [Google Research Scholar Award 2021](https://ai.googleblog.com/2021/04/announcing-2021-research-scholar.html) Thanks Google!
+1. [Google Research Scholar Award 2021](https://ai.googleblog.com/2021/04/announcing-2021-research-scholar.html) 
 
-2. [NSF CAREER Award 2018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667)Thanks NSF!
+2. [NSF CAREER Award 2018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667)
 
 3. NVIDIA Donation (Equipment)
 
