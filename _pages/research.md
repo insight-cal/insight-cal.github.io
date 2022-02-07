@@ -19,9 +19,11 @@ My research group is currently supported by the following research grants:
 
 2. [NSF CAREER Award 2018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667)
 
-3. NVIDIA Donation (Equipment)
+3. Adina Allen Professorship
 
-4. Adina Allen Professorship
+4. NVIDIA Donation (Equipment)
+
+
 
 Completed Projects:
 
