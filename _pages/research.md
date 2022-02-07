@@ -13,19 +13,20 @@ more energy-efficient, capable, reliable, and secure.
 
 Please refer to [Prof Jog's website](https://adwaitjog.github.io/) for the publication list and other details.
 
-Research Sponsors: NSF, Google, DOE/ANL, William & Mary
-
 My research group is currently supported by the following research grants:
-[Google Research Scholar Award 2021](https://ai.googleblog.com/2021/04/announcing-2021-research-scholar.html) Thanks Google!
 
-[NSF CAREER Award 2018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667)Thanks NSF!
+1. [Google Research Scholar Award 2021](https://ai.googleblog.com/2021/04/announcing-2021-research-scholar.html) Thanks Google!
 
-NVIDIA Donation (Equipment)
+2. [NSF CAREER Award 2018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667)Thanks NSF!
+
+3. NVIDIA Donation (Equipment)
+
+4. Adina Allen Professorship
 
 Completed Projects:
 
-DOE/ANL Subcontract 2021
+1. DOE/ANL Subcontract 2021
 
-[NSF SHF Award (2017-2021)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532)
+2. [NSF SHF Award (2017-2021)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532)
 
-[NSF CRII Award (2017-2020)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336)
+3. [NSF CRII Award (2017-2020)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336)
