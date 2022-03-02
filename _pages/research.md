@@ -18,15 +18,20 @@ Our research group is currently supported by:
 
 2. [NSF CAREER Award 2018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667)
 
-3. Adina Allen Professorship
+3. Adina Allen Professorship and Plumeri Award from William & Mary.
 
-4. NVIDIA Donation (Equipment)
+4. NVIDIA Equipment Donation
 
 
-Completed Projects:
+Past Funding:
 
 1. DOE/ANL Subcontract 2021
 
 2. [NSF SHF Award (2017-2021)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532)
 
 3. [NSF CRII Award (2017-2020)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336)
+
+4. Internships: AMD (Mohamed Ibrahim), Intel (Hongyuan Liu and Gurunath Kadam), PNNL (Haonan Wang). 
+
+
+
