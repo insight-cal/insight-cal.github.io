@@ -16,7 +16,7 @@ Our research group is currently supported by:
 
 1. [Google Research Scholar Award 2021](https://ai.googleblog.com/2021/04/announcing-2021-research-scholar.html) 
 
-2. [NSF CAREER Award 2018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667)
+2. [NSF CAREER Award 2018-2023](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667)
 
 3. Adina Allen Professorship and Plumeri Award from William & Mary (from July 1, 2022).
 
