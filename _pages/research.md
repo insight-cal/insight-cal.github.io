@@ -33,5 +33,7 @@ Past Funding:
 
 4. Internships: AMD (Mohamed Ibrahim), Intel (Hongyuan Liu and Gurunath Kadam), PNNL (Haonan Wang). 
 
+5. W&M start-up and other internal funds
+
 
 
