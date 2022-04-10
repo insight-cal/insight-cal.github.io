@@ -18,7 +18,7 @@ Our research group is currently supported by:
 
 2. [NSF CAREER Award 2018](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667)
 
-3. Adina Allen Professorship and Plumeri Award from William & Mary.
+3. Adina Allen Professorship and Plumeri Award from William & Mary (from July 1, 2022).
 
 4. NVIDIA Equipment Donation
 
