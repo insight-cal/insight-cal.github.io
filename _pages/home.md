@@ -1,15 +1,14 @@
 ---
 title: "Insight Computer Architecture Lab - Home"
 layout: homelay
-excerpt: "Insight Computer Architecture Lab at William & Mary."
+excerpt: "Insight Computer Architecture Lab."
 sitemap: false
 permalink: /
 ---
 
-Welcome! We are a research group at [William & Mary](https://www.wm.edu/as/computerscience/) working
-in the area of computer architecture and systems. Our goal is to generate insights necessary 
-in order to architect future computers that are more energy-efficient, capable, reliable, and 
-secure. 
+Welcome! We are a research group working in the area of computer architecture and 
+systems. Our goal is to generate insights necessary in order to architect future 
+computers that are more energy-efficient, capable, reliable, and secure. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

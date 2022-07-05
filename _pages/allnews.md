@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Insight Computer Architecture Lab at William & Mary."
+excerpt: "Insight Computer Architecture Lab."
 sitemap: false
 permalink: /allnews.html
 ---
