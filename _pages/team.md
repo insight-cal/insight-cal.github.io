@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are always looking for new students to join our group!**
+ **NEW: We are looking for new students to join our group!**
 
 <!-- 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
