@@ -11,6 +11,9 @@ systems. Our goal is to generate insights necessary in order to architect future
 computers that are more energy-efficient, capable, reliable, and secure. 
 
 
+<span style="color:red"> We have moved to the University of Virginia and this site is currently being revamped. Please stay tuned for more details. </span>
+
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
