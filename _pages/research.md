@@ -12,28 +12,6 @@ We are interested in all aspects of computer architecture with a special focus o
 insights for architecting future computers that are more energy-efficient, capable, reliable, 
 and secure. For more details, please refer to [Prof. Jog's website](https://adwaitjog.github.io/).
 
-Our research group is currently supported by:
+We gratefully acknowledge the support from NSF, Google, DOE/ANL, NVIDIA. 
 
-1. [Google Research Scholar Award 2021](https://ai.googleblog.com/2021/04/announcing-2021-research-scholar.html) 
-
-2. [NSF CAREER Award 2018-2024](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750667)
-
-3. Adina Allen Professorship and Plumeri Award from William & Mary (from July 1, 2022).
-
-4. NVIDIA Equipment Donation
-
-
-Past Funding:
-
-1. DOE/ANL Subcontract 2021
-
-2. [NSF SHF Award (2017-2021)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532)
-
-3. [NSF CRII Award (2017-2020)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336)
-
-4. Internships: AMD (Mohamed Ibrahim), Intel (Hongyuan Liu and Gurunath Kadam), PNNL (Haonan Wang). 
-
-5. W&M start-up and other internal funds
-
-
-
+Our members also have gone to internships at AMD, Intel, and PNNL. 
