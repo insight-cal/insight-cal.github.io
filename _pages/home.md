@@ -13,8 +13,8 @@ computers that are more energy-efficient, capable, reliable, and secure.
 
 <span style="color:red"> We have moved to the University of Virginia and this site is currently being revamped. Please stay tuned for more details. </span>
 
-<span style="color:red"> We have open positions. If you are interested, please apply to UVA CS department and mention my name as a faculty member you are interested in working with. I will make sure to review your
-application. More details can be found [here](https://engineering.virginia.edu/future-grads/graduate-admissions) and [here](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program). </span>
+<span style="color:red"> Note to prospective Ph.D. students:</span> We have open positions. If you are interested, please apply to UVA CS department and mention my name as a faculty member you are interested in working with. I will make sure to review your
+application. More details can be found [here](https://engineering.virginia.edu/future-grads/graduate-admissions) and [here](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program). 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
