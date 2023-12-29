@@ -12,6 +12,6 @@ We are interested in all aspects of computer architecture with a special focus o
 insights for architecting future computers that are more energy-efficient, capable, reliable, 
 and secure. For more details, please refer to [Prof. Jog's website](https://adwaitjog.github.io/).
 
-We gratefully acknowledge the support from NSF, Google, DOE/ANL, NVIDIA. 
+We gratefully acknowledge the support from NSF, Google, DOE, NVIDIA. 
 
 Our members also have gone to internships at AMD, Intel, and PNNL. 
