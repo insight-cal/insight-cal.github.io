@@ -7,7 +7,7 @@
 
 # Site settings
 title: Insight Computer Architecture Lab
-email: ajog@wm.edu
+email: ajog@virginia.edu
 description: > # this means to ignore newlines until "baseurl:"
   The goal of our lab is to generate insights necessary in order to 
   architect future computers that are more energy-efficient, capable, reliable, and secure.
