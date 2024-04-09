@@ -28,7 +28,15 @@ computers that are more energy-efficient, capable, reliable, and secure.
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grp-1.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grp-2.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grp-3.jpg" alt="Slide 3" />
+        </div>
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grp-1.jpg" alt="Slide 1" />
         </div>
