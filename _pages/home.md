@@ -11,10 +11,6 @@ systems. Our goal is to generate insights necessary in order to architect future
 computers that are more energy-efficient, capable, reliable, and secure. 
 
 
-<span style="color:red"> Note to prospective Ph.D. students:</span> We have open positions. If you are interested, please apply to UVA CS department and mention my name as a faculty member you are interested in working with. More details can be found [here](https://engineering.virginia.edu/future-grads/graduate-admissions) and [here](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program). 
-
-<span style="color:red"> Note to UVA students:</span> We have open positions. If you are interested, please send Prof. Jog an e-mail.
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
