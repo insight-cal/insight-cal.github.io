@@ -1,6 +1,6 @@
 ---
 title: "Insight Computer Architecture Lab - Home"
-layout: homelay
+layout: default
 excerpt: "Insight Computer Architecture Lab."
 sitemap: false
 permalink: /
