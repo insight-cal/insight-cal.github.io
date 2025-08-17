@@ -12,18 +12,7 @@ permalink: /team/
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
  -->
 
-## Faculty
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-{% for member in site.data.faculty %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-## Ph.D. Students
+## Current
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
