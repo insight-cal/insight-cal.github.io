@@ -1,11 +1,17 @@
-# Allan Lab Website
+# insight-cal.github.io (retired)
 
-This is the website of our academic research group at Leiden University.
+The Insight Computer Architecture Lab website now lives at
+https://adwaitjog.github.io/group.html
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+This repository only serves redirects from the old URLs:
 
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+| Old path | Redirects to |
+| --- | --- |
+| `/` | `/group.html` |
+| `/team/` | `/group.html#team` |
+| `/research/` | `/group.html#research` |
+| `/publications/` | `/pubs.html` |
+| `/allnews.html` | `/news.html` |
+| anything else | `/group.html` (via `404.html`) |
 
-
-Copyright Allan Lab. Code released under the MIT License.
-
+The previous Jekyll site is preserved in the git history.
